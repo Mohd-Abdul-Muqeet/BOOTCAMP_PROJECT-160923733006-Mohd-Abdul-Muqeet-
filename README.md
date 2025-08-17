@@ -46,8 +46,7 @@ It demonstrates clean **Controller-Service-Model** architecture with **in-memory
 ---
 
 ## 📂 Project Structure
+<img width="1920" height="1080" alt="Screenshot 2025-08-16 214845" src="https://github.com/user-attachments/assets/e2e7b071-073e-4fd0-9074-b80b48c1fd09" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-16 214814" src="https://github.com/user-attachments/assets/c298b70d-5aea-4503-b322-10cba2af5df5" />
-
-<img width="960" height="1020" alt="Screenshot 2025-08-16 212157" src="https://github.com/user-attachments/assets/e91f1993-2918-48a0-bc71-b4a41bb09e6e" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-16 214831" src="https://github.com/user-attachments/assets/0f6eebf6-c377-49f8-928d-3a519e7b5d1e" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-16 214854" src="https://github.com/user-attachments/assets/6120b015-2a43-47b3-b133-acb090457e76" />
